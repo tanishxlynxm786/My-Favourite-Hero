@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    line-height: 35px;
+}
+
+header{
+    background-color: royalblue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Anton', sans-serif;
+font-family: 'Press Start 2P', cursive;
+}
+
+header h1{
+    color: white;
+    font-size: 40px;
+}
+
+header img{
+    border-radius: 20px;
+    width: 300px;
+    border: 20px solid firebrick;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+    border-radius: 100px;
+    width: 500px;
+    border: 20px solid firebrick;
+}
+
+h2{
+    font-size: 25px;
+    color: royalblue;
+    margin: 20px 0 20px;
+}
+
+a{
+    color: crimson;
+}
+
+a:hover{
+    color: white;
+    background-color: crimson;
+}
+
+footer{
+    background-color: royalblue;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+footer p{
+    margin: 0;
+}
+
+p.caption{
+    color: crimson;
+    font-style: italic;
+    margin: 0;
+}
+
+
+
+
